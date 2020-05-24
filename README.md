@@ -90,6 +90,9 @@ Year = {2020}
 ## Contact
 
 > Nikhil Saini
+>
 > Email : niksarrow196@gmail.com, nikhilra@cse.iitb.ac.in
+>
 > Department of Computer Science & Engineering 
+>
 > Indian Institute of Technology, Bombay
