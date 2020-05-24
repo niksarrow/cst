@@ -1,0 +1,13 @@
+dumped/
+embeddings/
+*__pycache__*
+tools/
+Untitled.ipynb
+get_data_esen_demo.sh
+index.html
+noise.tar.gz
+*.swp
+*.yml
+*pbs
+*jobs
+logs/*
