@@ -5,7 +5,6 @@ This repository contains the implementation of encoder-decoder_aux-decoder archi
 ## The Implementation includes:
 - Autoencoder Training
 - Parallel Data Training
-- Parallel Auxiliary Data Traning (via aux decoder)
 
 ## Noise Model Techniques for Disfluency Removal:
 - Synonym Insertion
@@ -94,4 +93,3 @@ Year = {2020}
 > Email : niksarrow196@gmail.com, nikhilra@cse.iitb.ac.in
 > Department of Computer Science & Engineering 
 > Indian Institute of Technology, Bombay
-
